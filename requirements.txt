@@ -1,0 +1,7 @@
+Python
+Pandas
+NumPy
+Scikit-learn
+Natural Language Processing (NLP)
+TF-IDF Vectorizer
+google colab
